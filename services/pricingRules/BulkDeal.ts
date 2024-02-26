@@ -1,5 +1,3 @@
-// rules/XForYDeal.ts
-
 import { IPricingRule } from '../../interface/pricingRules';
 import { Product } from '../../models/product';
 

@@ -1,0 +1,1 @@
+node app.js '{"products":[{"sku":"atv","name":"Apple TV","price":109.50},{"sku":"atv","name":"Apple TV","price":109.50},{"sku":"atv","name":"Apple TV","price":109.50},{"sku":"vga","name":"VGA adapter","price":30.00}]}' '{"rules":[{"type":"XForYDeal","sku":"atv","threshold":3,"payFor":2}]}'
