@@ -1,4 +1,3 @@
-// checkout.test.ts
 import { Checkout } from '../services/checkout/checkout';
 import { Product } from '../models/product'
 import { BulkDeal } from '../services/pricingRules/BulkDeal';
